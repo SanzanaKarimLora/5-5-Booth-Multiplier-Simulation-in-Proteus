@@ -1,0 +1,1 @@
+This is the simulation of 5-5 Booth Multiplier in the Proteus 8 Professional simulation software. This system can multiply two 5-bit signed numbers.
